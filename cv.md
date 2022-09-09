@@ -1,5 +1,5 @@
 
-# **rsshcool-cv**
+# **rsschool-cv**
 
 ---
 
@@ -7,7 +7,7 @@
 
 ---
 
-### Contakts
+### Contacts
 
 * Location: Kharkiv, Ukraine
 * Phone: +38095 398 7809
@@ -33,9 +33,16 @@ I have extensive experience in banking. My professional skills are the analysis 
 
 ### Code example
 
+**Convert number to reversed array of digits, KATA from CODEWARS:** *Given a random non-negative number, you have to return the digits of this number within an array in reverse order.*
+
+`function digitize(n) {
+  return String(n).split('').map(Number).reverse()
+}`
+
 ---
 
 ### Languages
 
 * Ukrainian - Native
+* Russian - Native
 * English - Intermediate
