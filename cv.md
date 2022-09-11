@@ -35,9 +35,12 @@ I have extensive experience in banking. My professional skills are the analysis 
 
 **Convert number to reversed array of digits, KATA from CODEWARS:** *Given a random non-negative number, you have to return the digits of this number within an array in reverse order.*
 
-`function digitize(n) {
+```javascript
+
+function digitize(n) {
   return String(n).split('').map(Number).reverse()
-}`
+}
+```
 
 ---
 
