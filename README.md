@@ -1,1 +1,1 @@
-<https://13olena.github.io/rsschool-cv/cv>
+<https://13olena.github.io/rsschool-cv/>
